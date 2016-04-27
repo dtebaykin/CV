@@ -32,12 +32,12 @@ Teaching Experience
 ---------------------
 
 2016
-: **Teaching Assitant for Introduction to Genetics course (Biol 234) at UBC** - Instructor: Dr. Craig Berezowsky
+: **Teaching Assitant for Fundamentals of Genetics course (Biol 234) at UBC** - Instructor: Dr. Craig Berezowsky
 
 Awards and Scholarships
 --------------------
 2015
-: BD2K Hackathon travel award
+: BD2K Hackathon travel award, 2nd place
 
 Presentations
 --------------------
@@ -51,11 +51,13 @@ Presentations
 Publications
 ------------
 <!--zotero cell format -->
-**(Preparing)** **Tebaykin, D.**, Tripathy, S.J., Li, B., Pavlidis, P. (2016) Exploring systematic sources of study-to-study variability by large-scale literature text-mining.
+**(Preparing)** **Tebaykin, D.**, Pavlidis, P., Tripathy S.J. Exploring the confounding influences of electrophysiological study-to-study variability by large-scale literature text-mining.
 
-
+**(Preparing)** Tripathy, S.J., Li, B., **Tebaykin, D.**, Pavlidis, P. Updates to the NeuroElectro.org database and web interface.
+   
+**(Preparing)** Tripathy, S.J., Mancarci, O., Toker, L., **Tebaykin, D.**, Li, B., Pavlidis, P. Transcriptomic correlates of brain-wide electrophysiological diversity.
 
 Software
 ------------
-**NeuroElectro:** An online database of electrophysiology data extracted from neuroscience articles. Available at ([neuroelectro.org](http://neuroelectro.org/)).
+**NeuroElectro:** An online database of electrophysiology data extracted from neuroscience articles. Available at ([neuroelectro.org](http://neuroelectro.org/)). Role: co-developer
 

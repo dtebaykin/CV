@@ -1,10 +1,10 @@
-Ogan Mancarci's CV
-===================
-CV of B. Ogan Mancarci. Hosted online at http://oganm.github.io/CV/. Click here for [pdf](https://github.com/oganm/CV/raw/master/cv.pdf).
+Dmitry Tebaykin's CV
+====================
+CV of Dmitry Tebaykin. Click here for [pdf](https://github.com/dtebaykin/CV/raw/master/cv.pdf).
 
 Build pdf and html:
 
-    git clone https://github.com/oganm/CV.git
+    git clone https://github.com/dtebaykin/CV.git
     cd CV
     make
 

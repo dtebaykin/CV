@@ -16,7 +16,7 @@ Education
     *Thesis title: .* Bioinformatics of neuron electrophysiology: exploring systematic sources of study-to-study variability by large-scale literature text-mining.
 
 2007-2013
-:   **BSc, Combined Major in Computer Science and Biology;** University of British Columbia (Vancouver, Canada)
+:   **BSc, Combined Major in Computer Science and Biology;** University of British Columbia (Vancouver, Canada)  
     + Computer science Co-op program
 
 Research Experience
